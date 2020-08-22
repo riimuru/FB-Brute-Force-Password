@@ -1,3 +1,3 @@
 # FB-Brute-Force-Password
-# Author: marouane
+# Author: rimuru
 # Distro: Kali Linux + Parrot Sec
