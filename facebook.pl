@@ -88,7 +88,7 @@ while (<$list>) {
 		}
 	}
 
-	print "Testing -> $_\n";
+	print "Testing ---> $_\n";
 
 if (defined $success) {
 
@@ -96,8 +96,8 @@ if (defined $success) {
 	         print "\nPASSWORD CRACKED -> $_\n";
 		print "############################# ";
 
-		print "#Youtube: youtube.com/teclamp#\n\n";
-		print "#Facebook: facebook/teclamp#\n\n";
+		print "***Youtube: youtube.com/Ace & Ace***\n\n";
+		print "***Facebook: facebook/MyZeroTwo***\n\n";
 		close SSL;
 		exit;
 	}
