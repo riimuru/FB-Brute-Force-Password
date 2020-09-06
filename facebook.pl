@@ -1,6 +1,6 @@
 # Date: 07/22/2020
 # Distro: Kali Linux + Parrot Sec ....
-# Author: rimuru
+# Author: marouane
 #!/usr/bin/perl
 
 use strict;
