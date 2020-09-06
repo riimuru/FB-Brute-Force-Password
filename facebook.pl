@@ -93,7 +93,7 @@ while (<$list>) {
 if (defined $success) {
 
 		print "############################# ";
-	         print "\nPASSWORD CRACKED -> $_\n";
+	         print "\nTARGET PASSWORD CRACKED ---> $_\n";
 		print "############################# ";
 
 		print "***Youtube: youtube.com/Ace & Ace***\n\n";
