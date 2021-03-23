@@ -1,3 +1,3 @@
 # FB-Brute-Force-Password
-# Author: MAROUANE
-# Distro: Kali Linux + Parrot Sec
+# Author: `MAROUANE`
+# Distro: `Kali Linux + Parrot Sec`
